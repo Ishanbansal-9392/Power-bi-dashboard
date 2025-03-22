@@ -2,6 +2,7 @@
 This Power BI dashboard provides a comprehensive analysis of mobile phone sales transactions, focusing on sales performance, customer behavior, and payment insights. The data used for this dashboard comes from a structured dataset containing details on sales transactions, customers, products, and payment methods.
 
 📌 Key Features & Insights
+
 1️⃣ Sales Performance Analysis
 Total Revenue & Units Sold 📈
 
@@ -15,6 +16,7 @@ Sales Trends Over Time ⏳
 
 Analyzes how sales fluctuate across different months, days of the week, and specific dates.
 Helps businesses optimize pricing and promotions.
+
 2️⃣ Customer Demographics & Behavior
 Age Group Distribution 👥
 
@@ -28,6 +30,7 @@ Customer Ratings & Satisfaction Levels ⭐
 
 Analyzes customer feedback based on ratings given to different brands/models.
 Helps businesses assess customer satisfaction and product quality.
+
 3️⃣ Payment Insights & Trends
 Preferred Payment Methods 💳
 
